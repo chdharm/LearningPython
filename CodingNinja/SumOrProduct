@@ -1,0 +1,6 @@
+import operator
+num=eval(raw_input())
+case=eval(raw_input("Enter \"1\" for sum and \"2\" for multiply"))
+#print num
+#print type(num)
+print ( sum(range(1,num+1,1)) if case==1  else reduce(operator.mul, range(1,num+1)) if case==2 else "-1" )
