@@ -11,10 +11,13 @@ pypart(5)
 
 
 
-
+'''
 C:\Python27\python.exe C:/Users/Admin/PycharmProjects/FirstProject/Third.py
         *
       * *
     * * *
   * * * *
 * * * * *
+
+
+'''

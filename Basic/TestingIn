@@ -1,0 +1,159 @@
+#Using pyperclip third party module for copy and paste
+#import pyperclip
+#pyperclip.copy("I am hero ")
+#print pyperclip.paste()
+
+#Using sys module
+#import sys
+#for i in range(101):
+#    if i>50:
+#        sys.exit()
+#    print i
+
+#Using random module
+#import random
+#print random.randint(1,10)
+'''
+def hello():
+    print "Howdy!"
+    print "hello"
+print hello()
+
+import sys,os
+def main():
+    print "hello dharmu",sys.argv[1]
+
+if __name__=='__main__':
+    print os.getcwd()
+    main()
+'''
+#print (round(95.0,2))
+#print ("%.2f" %
+
+
+
+#print (format(95.345, ".2f"))
+# "%.2f" % a
+
+##################################################
+
+'''
+from __future__ import print_function
+
+import os
+import sys
+def maximumProgramValue(n):
+    result = 0
+    while n:
+        n = n - 1;
+        t = raw_input()
+        # print (t+"--->input")
+        if str[0] == "a":
+            print("inside add")
+            # if result<(result+int(str[5])):
+            # result=result+int(str[5])
+        if str[0] == "set":
+            print("inside set")
+            # if result<int(str[5]):
+            # result=int(str[5])
+    return result
+
+
+if __name__ == '__main__':
+
+    n = int(raw_input())
+
+    result = maximumProgramValue(n)
+
+    print (result)
+
+#print (float(input("entre your number")))
+print type(input("entre your number"))
+
+'''
+
+# re1=[1,2,3,4,5,6,2,2,2,2,2,2,2,7,8]
+# re2=[10,23,10,10]
+# print "The elements",re1[4:12:3]
+# print "The index of 10 is %s"%re2.index(10)
+# re=re1+re2
+# re=re*2
+# print re
+# print "The length of list=%s"%len(re)
+# print "The count of list=%s"%re.count(2)
+#
+# name="Dharmpal"
+# print "Thee name is %s"%name
+# age=22
+# print "%s is %1.4f year old"%(name,age)
+#
+# str="Hello World!"
+# print str[::-1]
+# print str.lower()
+# print str.upper()
+# print str.startswith("Hello")
+# print str.split()
+# x=10
+# y=10
+# print "Here",not x is y
+# count=0
+# while count<5:
+#     print "Count",count
+#     count+=1
+# else:
+#     print "Dharmu"
+# def list_benefits():
+#     li=[]
+#     li.append("More organized code")
+#     li.append("More readable code")
+#     li.append("Easier code reuse")
+#     li.append("Allowing programmers to share and connect code together")
+#     #li.append()
+#     return li
+# print list_benefits()
+# dict={}
+# dict1={
+#     "Ram":1,
+#     "Shyam":2,
+#     "Dhyan":3
+# }
+# print dict
+# print dict1
+# dict["hI"]="1"
+# #dict.update({"Na","2"})
+# print dict.keys()
+
+# #
+# # import draw
+# height=[1.80,6.45,7.80,6.56]
+# weight=[3,5,7,45.6]
+# import numpy
+def fib(n):
+    if(n<2):
+        yield n
+    li=[0,1]
+    for i in range(2,n+1):
+        li.append(li[i-1]+li[i-2])
+    re=li[n]
+    yield re
+
+def factorial(num):
+    if num<2:
+        yield 1
+    fact=1
+    for i in range(1,num+1):
+        fact=fact*num
+    yield fact
+
+def factorial2(num):
+    if num<2:
+        return num
+    return num*factorial2(num-1)
+
+
+#my_name=factorial(4)
+my_name=fib(6)
+print my_name
+for i in my_name:
+    print i
+#print factorial2(4)

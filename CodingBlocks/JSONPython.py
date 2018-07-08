@@ -13,3 +13,10 @@ print vari
 data=json.loads(vari)
 print type(data)
 print data
+#
+# import requests
+# req = requests.request('GET', 'http://httpbin.org/get')
+# print req
+
+import urllib
+urllib.urlopen("http://www.gooogle.com")

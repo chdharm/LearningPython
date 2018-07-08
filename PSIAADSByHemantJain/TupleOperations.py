@@ -1,0 +1,2 @@
+tuple=()
+print type(tuple)

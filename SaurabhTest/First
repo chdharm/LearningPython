@@ -1,0 +1,16 @@
+num=input()
+dict={}
+max=[]
+keymax=[]
+for i in range(1,num+1):
+    j=str(raw_input())
+    if dict.has_key(j):
+        dict[j]=dict[j]+1
+    else:
+        dict[j]=1
+max.append(dict[0])
+keymax=dict.keys()[1]
+for i in dict:
+    if dict[i]>max[]:
+        max=dict[i]
+        key
