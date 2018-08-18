@@ -10,22 +10,18 @@ def isPrime(num):
     return True
 
 def findClosestGift(num):
-    if num<=2:
-        return 2
-    if isPrime(num):
-        return num
-    li=[]
-    count=0
-    i=2
-    while count<num:
-        count=count+1
-        if isPrime(i):
-            li.append(i)
+    small=0
+    large=0
+    i=0;
+    while(1):
+        if i<=num and isPrime(i):
+            small=i
+        if i>num and isPrime(i):
+            large=i
+            break
         i=i+1
-    for i in range(0,count):
-
-
+    return [small,large]
 
 if __name__=='__main__':
     a=input()
-    print isPrime(a)
+    print findClosestGift(a)

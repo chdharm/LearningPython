@@ -1,3 +1,4 @@
+#########################Done#########################
 #ReplaceEveryElementByRightSideGreater but excluding the number
 n=input()
 li=[]
@@ -11,4 +12,4 @@ for i in range(l-1):
             max=li[j]
     li[i]=max
 for i in range(n):
-    print i
+    print li[i]

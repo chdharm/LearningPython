@@ -1,3 +1,4 @@
+#########################Done#########################
 #First approach
 
     # we can do in brute force by checking all numbers , wheather they are duplicates
