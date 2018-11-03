@@ -5,43 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f57950cb-0f05-4a40-8705-539cf3d9276b" name="Default" comment="Hi adding some other files">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvanceFormatting/1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicsToSudeep/AllSubstring.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicsToSudeep/ConsoleRead.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicsToSudeep/DictionariesBasics.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicsToSudeep/LambdaFunctions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CappilaryTest/BinaryMatrix.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CappilaryTest/OldAndColdNumbers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chargebee/First.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chargebee/MaximuxSumWithConstaintOfLargerAfterLower.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chargebee/SumOfNumbersInAString.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CodeChef/DigitSum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CodeChef/Reminder.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DP/FibonnaciTopDownWithoutGlobalArray.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DictionaryCompehension/First.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExceptionHandling/First.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GE/RemovingVowels.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GFG/Arrays/ArrayBasics.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HackerRank/DivisionModule.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HackerRank/Exception.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Hackerearth/First.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearnBay/EggBreaks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearnBay/PowerOfTwo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListComprehensions/First.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PramataTech/First.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PramataTech/Second.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SamsungHiring/Second.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestPress/ClosestGift2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestPress/MaximumNumberFromArrangingNumbers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicsToSudeep/Basics.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClootrackHiring/First.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GFG/LinkedList/LinkedList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePythonClass/First.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ideserve/Array/LastIndexOfElementInASortedArray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSONPlayer/JsnLint5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSONPlayer/JsonLint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSONPlayer/JsonLint2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSONPlayer/JsonLint3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSONPlayer/JsonLint4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSONPlayer/JsonLint5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RapidoHiring/NewLanguage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Regex/First.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myschoolcode/SearchRightMostOccuranceOfADuplicateNumber.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicsToSudeep/HelloWorld.py" afterPath="$PROJECT_DIR$/BasicsToSudeep/HelloWorld.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicsToSudeep/LearningLoop.py" afterPath="$PROJECT_DIR$/BasicsToSudeep/LearningLoop.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearnBay/FindSumK.py" afterPath="$PROJECT_DIR$/LearnBay/FindSumK.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearnBay/FindTwoMissingElementsInN-2Elements.py" afterPath="$PROJECT_DIR$/LearnBay/FindTwoMissingElementsInN-2Elements.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearnBay/FindingDuplicatesInAArray.py" afterPath="$PROJECT_DIR$/LearnBay/FindingDuplicatesInAArray.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearnBay/ReplaceEveryElementByRightSideGreater.py" afterPath="$PROJECT_DIR$/LearnBay/ReplaceEveryElementByRightSideGreater.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearnBay/TwoStringsWithSameCharacters.py" afterPath="$PROJECT_DIR$/LearnBay/TwoStringsWithSameCharacters.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestPress/ClosestGift.py" afterPath="$PROJECT_DIR$/TestPress/ClosestGift.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,91 +30,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArrayBasics.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GFG/Arrays/ArrayBasics.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="First.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExceptionHandling/First.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindSumK.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearnBay/FindSumK.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SumOfNumbersInAString.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chargebee/SumOfNumbersInAString.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaximuxSumWithConstaintOfLargerAfterLower.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chargebee/MaximuxSumWithConstaintOfLargerAfterLower.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Second.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SamsungHiring/Second.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Second.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PramataTech/Second.py">
+      <file leaf-file-name="NewLanguage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RapidoHiring/NewLanguage.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="First.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PramataTech/First.py">
+        <entry file="file://$PROJECT_DIR$/ClootrackHiring/First.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FibonnaciTopDownWithoutGlobalArray.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/FibonnaciTopDownWithoutGlobalArray.py">
+      <file leaf-file-name="JsonLint.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSONPlayer/JsonLint.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonLint2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSONPlayer/JsonLint2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonLint3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSONPlayer/JsonLint3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonLint4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSONPlayer/JsonLint4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3179">
+              <caret line="187" column="6" lean-forward="false" selection-start-line="187" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Basics.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicsToSudeep/Basics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedList.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GFG/LinkedList/LinkedList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsnLint5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSONPlayer/JsnLint5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonLint5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSONPlayer/JsonLint5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -162,20 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PSIAADSByHemantJain/MerginOverlapping.py" />
-        <option value="$PROJECT_DIR$/PSIAADSByHemantJain/ReversingAListInPlace.py" />
-        <option value="$PROJECT_DIR$/PSIAADSByHemantJain/SortingZero'sAndOne's.py" />
-        <option value="$PROJECT_DIR$/PSIAADSByHemantJain/FindDuplicateOfElementsInARange.py" />
-        <option value="$PROJECT_DIR$/PSIAADSByHemantJain/SumOfDigits.py" />
-        <option value="$PROJECT_DIR$/CodingBlocks/FibonacciTopDown.py" />
-        <option value="$PROJECT_DIR$/DP/FibonnaciTopDown.py" />
-        <option value="$PROJECT_DIR$/AcadGild/PractisingArgsandKargs.py" />
-        <option value="$PROJECT_DIR$/Debugging/BasicProgram.py" />
-        <option value="$PROJECT_DIR$/Basic/ArmastrongNumber.py" />
-        <option value="$PROJECT_DIR$/TestPress/ReversingNumbers.py" />
-        <option value="$PROJECT_DIR$/LearnBay/GivenAStringReverseTheString.py" />
-        <option value="$PROJECT_DIR$/BasicsToSudeep/Variable.py" />
-        <option value="$PROJECT_DIR$/BasicsToSudeep/Input.py" />
         <option value="$PROJECT_DIR$/LearnBay/FindOneMissingElementFromARange.py" />
         <option value="$PROJECT_DIR$/LearnBay/FindTwoMissingElementsInN-2Elements.py" />
         <option value="$PROJECT_DIR$/AdvanceFormatting/1.py" />
@@ -213,14 +187,27 @@
         <option value="$PROJECT_DIR$/SamsungHiring/Second.py" />
         <option value="$PROJECT_DIR$/PramataTech/Second.py" />
         <option value="$PROJECT_DIR$/PramataTech/First.py" />
+        <option value="$PROJECT_DIR$/GooglePythonClass/First.py" />
+        <option value="$PROJECT_DIR$/Regex/First.py" />
+        <option value="$PROJECT_DIR$/Ideserve/Array/LastIndexOfElementInASortedArray.py" />
+        <option value="$PROJECT_DIR$/myschoolcode/SearchRightMostOccuranceOfADuplicateNumber.py" />
+        <option value="$PROJECT_DIR$/RapidoHiring/NewLanguage.py" />
+        <option value="$PROJECT_DIR$/ClootrackHiring/First.py" />
+        <option value="$PROJECT_DIR$/JSONPlayer/JsonLint.py" />
+        <option value="$PROJECT_DIR$/JSONPlayer/JsonLint2.py" />
+        <option value="$PROJECT_DIR$/JSONPlayer/JsonLint3.py" />
+        <option value="$PROJECT_DIR$/JSONPlayer/JsonLint5.py" />
+        <option value="$PROJECT_DIR$/JSONPlayer/JsnLint5.py" />
+        <option value="$PROJECT_DIR$/JSONPlayer/JsonLint4.py" />
+        <option value="$PROJECT_DIR$/BasicsToSudeep/Basics.py" />
+        <option value="$PROJECT_DIR$/GFG/LinkedList/LinkedList.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="735" />
-    <option name="y" value="65" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="751" />
     <option name="width" value="612" />
-    <option name="height" value="754" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -241,6 +228,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,14 +236,21 @@
               <item name="LearningPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearningPython" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LearningPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningPython" type="462c0819:PsiDirectoryNode" />
+              <item name="AcadGild" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\GitHub\LearningPython\BasicsToSudeep" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Desktop\GitHub\LearningPython" />
     </key>
@@ -272,106 +267,106 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.First (2)">
-    <configuration name="FibonnaciTopDownWithoutGlobalArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Basics">
+    <configuration name="Basics" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BasicsToSudeep" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/FibonnaciTopDownWithoutGlobalArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicsToSudeep/Basics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="First (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="JsnLint5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chargebee" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JSONPlayer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chargebee/First.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JSONPlayer/JsnLint5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="First (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="JsonLint2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PramataTech" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JSONPlayer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PramataTech/First.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JSONPlayer/JsonLint2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Second (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="JsonLint3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PramataTech" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JSONPlayer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PramataTech/Second.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JSONPlayer/JsonLint3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Second" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="JsonLint4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SamsungHiring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JSONPlayer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SamsungHiring/Second.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JSONPlayer/JsonLint4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.FibonnaciTopDownWithoutGlobalArray" />
-      <item index="1" class="java.lang.String" itemvalue="Python.First (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Second" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Second (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.First (2)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.JsonLint2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.JsonLint3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.JsonLint4" />
+      <item index="3" class="java.lang.String" itemvalue="Python.JsnLint5" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Basics" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.First (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Second (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Second" />
-        <item index="3" class="java.lang.String" itemvalue="Python.First (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.FibonnaciTopDownWithoutGlobalArray" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Basics" />
+        <item index="1" class="java.lang.String" itemvalue="Python.JsnLint5" />
+        <item index="2" class="java.lang.String" itemvalue="Python.JsonLint4" />
+        <item index="3" class="java.lang.String" itemvalue="Python.JsonLint3" />
+        <item index="4" class="java.lang.String" itemvalue="Python.JsonLint2" />
       </list>
     </recent_temporary>
   </component>
@@ -409,9 +404,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17700455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21633889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.49394855" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35748792" sideWeight="0.24583964" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.49394855" order="7" side_tool="false" content_ui="tabs" />
@@ -465,111 +460,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AcadGild/UsingReadLine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AcadGild/CreatingClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/InputTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AcadGild/PractisingArgsandKargs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generators/FactorialIterative.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-79">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/ArmastrongNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestPress/ReversingNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Decorators/CalculateTimeToComplete.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BasicsToSudeep/Variable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BasicsToSudeep/Input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdvanceFormatting/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/DigitSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/Reminder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Exception.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/DivisionModule.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Debugging/BasicProgram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -742,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,7 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,7 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -766,7 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -788,15 +674,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PramataTech/First.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -804,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -819,14 +702,127 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PramataTech/Second.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GooglePythonClass/First.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regex/First.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ideserve/Array/LastIndexOfElementInASortedArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myschoolcode/SearchRightMostOccuranceOfADuplicateNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RapidoHiring/NewLanguage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClootrackHiring/First.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSONPlayer/JsonLint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSONPlayer/JsonLint2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSONPlayer/JsonLint3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSONPlayer/JsonLint5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSONPlayer/JsnLint5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSONPlayer/JsonLint4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3179">
+          <caret line="187" column="6" lean-forward="false" selection-start-line="187" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-762174762/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14773">
+          <caret line="869" column="41" lean-forward="false" selection-start-line="869" selection-start-column="41" selection-end-line="869" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicsToSudeep/Basics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GFG/LinkedList/LinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
