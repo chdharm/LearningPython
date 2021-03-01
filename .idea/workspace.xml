@@ -20,14 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f57950cb-0f05-4a40-8705-539cf3d9276b" name="Default" comment="Hi adding some other files">
-      <change afterPath="$PROJECT_DIR$/designPattern/Basics/producer_consumer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/Basics/producer_consumer_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/Basics/producer_consumer_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/Basics/producer_consumer_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/Basics/solution_using_semaphores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/Creational/Factory/first.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/Creational/Singlepattern/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/Behavioural/observer/eight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/Behavioural/observer/fifth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/Behavioural/observer/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/Behavioural/observer/fouth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/Behavioural/observer/ninth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/Behavioural/observer/second.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/Behavioural/observer/seventh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/Behavioural/observer/sixth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/Behavioural/observer/third.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/Creational/Builder/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/Creational/Builder/first.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
