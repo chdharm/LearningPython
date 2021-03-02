@@ -1,6 +1,5 @@
 from threading import Thread
 
-
 def square_numbers():
     for i in range(1000):
         result = i * i

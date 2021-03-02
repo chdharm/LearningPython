@@ -22,7 +22,7 @@ def order_line_or_producer():
     # Each staff in the serving line produces 200 orders
     for _ in range(200):
         orders.put("Order")
-        has_order.release() # ADDED THIS: Release the Semaphore, increment the internal counter by 1
+    has_order.release() # ADDED THIS: Release the Semaphore, increment the internal counter by 1
 
 
 # Let's put 4 staff into the order line
