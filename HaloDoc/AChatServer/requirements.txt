@@ -1,0 +1,93 @@
+1. XMPP_services -
+
+
+Dharmpal,  - 8052632490
+
+
+
+/send
+
+ blobs -
+
+ Token: "8052632490"
+{
+    type: "text" || "images",
+
+    message: "Flat text messages" || "url",
+
+    to: "80637265273"
+}
+
+
+
+
+
+
+
+
+XMPP - Anyone with valid mobile / email (which ever we support can create a web connection)
+
+
+DataBase:
+
+Datastore:
+
+Users:
+id, mobile number, name, profile pic url
+
+Websocket_connect:
+
+Socket_id, user_id, start_time, active, last_heat_bit_time
+
+
+Heartbit:
+    {
+        source: "8052632490"
+    }
+
+XMPP:
+
+It will first check
+
+
+1. Wheather the reciever is opened a web socket conn or not or online. If he is - then lets push the messages to that websocket_channel
+
+
+
+1. ui - blob
+
+
+
+10k -100k
+
+XMPP server
+
+XMPP - XMPP
+
+1. For a partcular
+
+
+Tables: RDBMS
+
+1. User_table
+id, name, mobile
+
+2. Group_table
+id, name
+
+3. user_group_mapping
+group_id, user_id
+
+
+
+Messages - MongoDB
+{
+    type: "image/text",
+    "message": "text_message/url",
+    sender: {
+        "type": "user/group",
+        "sender_id": "user_id/group_id"
+    }
+    status: "send/queued/delivered/read/failed/expired"
+}
+

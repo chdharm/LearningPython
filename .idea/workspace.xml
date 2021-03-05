@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f57950cb-0f05-4a40-8705-539cf3d9276b" name="Default" comment="Hi adding some other files">
-      <change afterPath="$PROJECT_DIR$/GFG/Arrays/all_sub_arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GFG/Arrays/largest_sum_contiguous_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GFG/Tree/isBST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ey/first.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PDFKit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestTY" beforeDir="false" afterPath="$PROJECT_DIR$/HaloDoc/AChatServer/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magic8Ball.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
