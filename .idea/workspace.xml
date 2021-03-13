@@ -20,11 +20,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f57950cb-0f05-4a40-8705-539cf3d9276b" name="Default" comment="Hi adding some other files">
+      <change afterPath="$PROJECT_DIR$/Flipkart/vehicle_rental_service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flipkart/vehicle_rental_service/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flipkart/vehicle_rental_service/branch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flipkart/vehicle_rental_service/driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flipkart/vehicle_rental_service/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flipkart/vehicle_rental_service/models/branchs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flipkart/vehicle_rental_service/models/rentals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flipkart/vehicle_rental_service/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GFG/Arrays/lower_bound.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GFG/Graph/BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GFG/Graph/DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaloDoc/alertsystem/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaloDoc/alertsystem/api/email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaloDoc/alertsystem/api/notification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaloDoc/alertsystem/api/phone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaloDoc/alertsystem/api/sms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaloDoc/alertsystem/api/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaloDoc/alertsystem/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaloDoc/alertsystem/config/alert_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaloDoc/alertsystem/config/notification_threshold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singular/hellman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singular/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/First" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PDFKit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestTY" beforeDir="false" afterPath="$PROJECT_DIR$/HaloDoc/AChatServer/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magic8Ball.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +61,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1owKq6LKfEBazGqqLLfAkIAT3FE" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -50,17 +69,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\Desktop\GitHub\LearningPython\BasicsToSudeep" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Examples" />
       <recent name="$PROJECT_DIR$/GFG" />
       <recent name="$PROJECT_DIR$/designPattern/Creational" />
       <recent name="C:\Users\Admin\Desktop\GitHub\LearningPython" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\GitHub\LearningPython\BasicsToSudeep" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Equalization">
@@ -237,10 +259,10 @@
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state x="67" y="153" key="#Equalization/0.23.1792.1031@0.23.1792.1031" timestamp="1614408541196" />
-    <state x="597" y="315" width="598" height="490" key="find.popup" timestamp="1614756926326">
+    <state x="597" y="315" width="598" height="490" key="find.popup" timestamp="1615617351511">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="597" y="315" width="598" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1614756926326" />
+    <state x="597" y="315" width="598" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1615617351511" />
     <state x="24" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1614368024412">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
