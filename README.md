@@ -1,2 +1,4 @@
 # LearningPython
-This is my repository for learning Python. I started learning while I joined Travelyaari.
+
+
+Collection of Python problems solved over a span of time
