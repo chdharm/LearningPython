@@ -1,0 +1,85 @@
+For a text file, you need to return the number of unique words in it.
+Dharmpal , dharmpal
+
+dic = {}
+
+For chunk in chunks:
+For line in chunk:
+
+For i in line:
+			If dic.get(i):
+				Dic[i] = dic.get(i) + 1
+			Else: 
+				Dic[i] = 1
+
+dic.keys()
+
+
+
+Q: With a product table defined with a name, id(unique), and price, how would you construct a query that shows the lowest priced item?
+
+
+ID, Name,PRICE
+
+
+select  	min(price)
+From
+	Product
+
+
+
+select  	*
+From
+	Product
+
+Order by
+	Price
+
+Limit 1,
+Skip 1
+
+select  	top(1)
+From
+	Product
+
+Order by
+	Price
+
+
+
+
+
+
+Select * from (Select * from product order by price limit 2)
+Order by price desc limit 1;
+
+
+
+With an order table defined with a date, a product id, price, quantity, tax rate, and shipping rate, how would you construct a query that shows the average order cost?
+
+
+
+Order:
+Order_id, product_id [foreign key], price, quantity, tax_rate, shipping rate, date
+
+
+
+Explain Select
+   DATE(date),
+   sum((price * quantity) * (1+ tax_rates/100) + shipping_rate) / sum(1) as "average"
+From
+  table_name
+
+Group by
+  DATE(date)
+
+
+
+
+
+
+
+
+
+
+
