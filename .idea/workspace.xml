@@ -20,24 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f57950cb-0f05-4a40-8705-539cf3d9276b" name="Default" comment="Hi adding some other files">
-      <change afterPath="$PROJECT_DIR$/Skuad/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/cjapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/cjapp/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/cjapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/cjapp/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/restapi/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/restapi/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/restapi/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/restapi/disable_csrf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/restapi/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/restapi/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skuad/restapi/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maximl labs/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maximl labs/second.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maximl labs/third.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
