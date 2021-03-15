@@ -1,0 +1,19 @@
+1. content wise view -
+
+
+[UI {App/Desktop} ] => Data Store
+    |
+    |    //getpost = redis  = 'mysql"
+    |    // post = viewCount[Miss] => [orinally view] ------
+    |    1. Fething, trigger a subsyem (cache post - data update)
+    |    2. Cron
+    |    3.
+    |    => [] => Post/content = > mYSQL
+    |            Redis = [],
+    |
+    |
+    kafka([20/500mb/ ]) =>  {
+        //Redis
+        //Mongo // Cassandra //
+        //Redshift
+    }

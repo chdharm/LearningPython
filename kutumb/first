@@ -1,0 +1,31 @@
+function deepCopy(object) {
+    console.log("Object--1", object)
+    if (typeof object === 'number' || typeof object === 'string'){
+        return object;
+    }
+
+    if (typeof object === 'object') {
+        if (Array.isArray(object)) {
+            const newObj = object.map((ele) => {
+                return deepCopy(ele);
+            })
+            return newObj;
+        } else {
+            const objectkeys = Object.keys(object);
+            const newobject = {};
+            objectkeys.forEach((key) => {
+                //Todo: Handle the key changes
+                const deepValue = deepCopy(object[key]);
+                newobject[key] = deepValue;
+            });
+            return newobject;
+        }
+    }
+}
+
+const obj1 = {
+    name: "Dharmpal",
+    marks: [{"math": 30}, {science: 50}]
+}
+const obj2 = deepCopy(obj1);
+console.log("obj2:", obj2);
