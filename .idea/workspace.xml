@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f57950cb-0f05-4a40-8705-539cf3d9276b" name="Default" comment="Hi adding some other files">
-      <change afterPath="$PROJECT_DIR$/kutumb/first" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kutumb/second" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RapidoHiring/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RapidoHiring/first.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/low_level_design/cache_system/features.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microsoft/first.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -1,0 +1,20 @@
+
+GET -  URL_TO_SERVER_WITH_PORT/v1/games?moble=8036564542&email=292628726
+
+Respose:
+{
+
+}
+
+POST - URL_TO_SERVER_WITH_PORT/v1/games
+
+
+Respose:
+{
+
+}
+
+
+
+#Interviewers were immature - Never apply to this company in future
+
