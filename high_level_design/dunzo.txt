@@ -1,0 +1,23 @@
+Requirements:
+
+1. Pickup and deliver
+2. grocery Kart and do the payments, deliver this item
+3. Authentication and authorization
+4. API- Microservices design
+5. Metropolitan cities- 6 India -
+6. Merchant - any city/ onboarding/offboarding/data updation -
+7. Delivery - onboarding/offboarding/data updation
+8. Build an inventory for having different shopkeepers stores who can add their offerings and prices - onboarding/offboarding/data updation
+9. Delivery, we should be able to track - Tracking
+10. Cash on delivery, delivery boy payment
+
+
+-----------------------------------------------
+1. Authentication and authorization -
+2. Inventory -
+3. Delivery management system -
+4. Location tracking system -
+5. Payments -
+6. Booking -
+7. Coupon and offers
+

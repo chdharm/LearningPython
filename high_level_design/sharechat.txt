@@ -1,0 +1,21 @@
+ID generation - High scale
+
+http, http/2, https
+
+grpc,
+
+
+
+
+Feedback:
+
+
+1. Scalability should be discussed more.
+2. Communication b/w two services.
+3. Loa balancer and cloud.
+4. Data sources
+
+
+Check the pdf for question and answer
+
+Distributed max_limit counter current_limit
