@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f57950cb-0f05-4a40-8705-539cf3d9276b" name="Default" comment="Hi adding some other files">
-      <change afterPath="$PROJECT_DIR$/Plivo/first.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plivo/second.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sharechat/Round-1 [Coding Round]/third.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sharechat/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sharechat/Round-1 [Coding Round]/first.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sharechat/third.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plivo/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/Plivo/Round-1 [Problem Solving Discussion]/first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plivo/second.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Plivo/Round-3 [System Design and Architecture Round]/second.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +59,11 @@
       <recent name="C:\Users\Admin\Desktop\GitHub\LearningPython\BasicsToSudeep" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Plivo/Round-3 [System Design and Architecture Round]" />
+      <recent name="$PROJECT_DIR$/Plivo/Round-1 [Problem Solving Discussion]" />
+      <recent name="$PROJECT_DIR$/Dunzo/Round-2 [Machine Coding Round]" />
       <recent name="$PROJECT_DIR$/Sharechat/coding_round" />
       <recent name="$PROJECT_DIR$/Skuad" />
-      <recent name="$PROJECT_DIR$/Examples" />
-      <recent name="$PROJECT_DIR$/GFG" />
-      <recent name="$PROJECT_DIR$/designPattern/Creational" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Equalization">
