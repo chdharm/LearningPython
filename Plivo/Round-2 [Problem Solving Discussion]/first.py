@@ -1,7 +1,7 @@
-      1
-    2    3
-  4   5 6   7
-
+  #     1
+  #   2    3
+  # 4   5 6   7
+  #
 
 q = [6, 7]
 len = 2
@@ -13,7 +13,7 @@ Console - 1,
 from_left = False
 q = Queue()
 q.push(root)
-while !q.empty():
+while not q.empty():
     ele = q.pop()
     print(ele.data)
     if root.left:

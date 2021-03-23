@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f57950cb-0f05-4a40-8705-539cf3d9276b" name="Default" comment="Hi adding some other files">
+      <change afterPath="$PROJECT_DIR$/Plivo/Round-4 [Hiring Manager]/discussion.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plivo/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/Plivo/Round-1 [Problem Solving Discussion]/first.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plivo/second.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Plivo/Round-3 [System Design and Architecture Round]/second.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plivo/Round-2 [Problem Solving Discussion]/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/Plivo/Round-2 [Problem Solving Discussion]/first.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
