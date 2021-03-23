@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f57950cb-0f05-4a40-8705-539cf3d9276b" name="Default" comment="Hi adding some other files">
-      <change afterPath="$PROJECT_DIR$/high_level_design/dunzo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high_level_design/sharechat.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plivo/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plivo/second.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sharechat/Round-1 [Coding Round]/third.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sharechat/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sharechat/Round-1 [Coding Round]/first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sharechat/third.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,16 +57,16 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\Admin\Desktop\GitHub\LearningPython\BasicsToSudeep" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Sharechat/coding_round" />
       <recent name="$PROJECT_DIR$/Skuad" />
       <recent name="$PROJECT_DIR$/Examples" />
       <recent name="$PROJECT_DIR$/GFG" />
       <recent name="$PROJECT_DIR$/designPattern/Creational" />
-      <recent name="C:\Users\Admin\Desktop\GitHub\LearningPython" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="C:\Users\Admin\Desktop\GitHub\LearningPython\BasicsToSudeep" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Equalization">

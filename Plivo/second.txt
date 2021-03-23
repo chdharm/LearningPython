@@ -1,0 +1,73 @@
+Twitter:
+
+#SachinTendulkar
+
+
+Word1 - [1,3,4,6]
+Word2 - [1,3,4,6,7,8]
+
+
+1. POST : tweet/
+Request - {
+    user_id:
+    timestamp:
+    messages: [
+        {
+            images: ___ur__
+        },
+        {
+            text: ""
+        }
+    ]
+}
+
+2. GET: count/__topic_name__
+
+
+Users:
+id, name
+
+Tweet:
+id, user_id, text, image,  created_at, updated_at
+
+
+__topicname__
+
+select
+    word
+    count()
+from
+    Tweet table
+where
+    text.
+ group by text.
+
+
+applicationlayer:
+
+storeKeywords(string, create_timne):
+    list_words = string.split()
+    #Check and dp filtering
+    for i in list_words:
+        if i[0] == '#':
+            hastag = i[1:]
+            KeywordCount.create({hastag, create_timne}).save()
+
+
+
+KeywordCount:
+keyword , created_time,updated_at,  first_five_minute, first_10_minute, .........
+
+
+select
+
+from
+    KeywordCount
+
+
+global_count
+
+lock = Lock()
+
+
+with lock:
