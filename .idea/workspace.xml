@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f57950cb-0f05-4a40-8705-539cf3d9276b" name="Default" comment="Hi adding some other files">
-      <change afterPath="$PROJECT_DIR$/Plivo/Round-4 [Hiring Manager]/discussion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plivo/prep" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plivo/Round-2 [Problem Solving Discussion]/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/Plivo/Round-2 [Problem Solving Discussion]/first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plivo/Round-5 [HR Manager]/discussion" beforeDir="false" afterPath="$PROJECT_DIR$/Plivo/Round-5 [HR Manager]/discussion" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,23 +235,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hi adding some other files" />
     <option name="LAST_COMMIT_MESSAGE" value="Hi adding some other files" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="67" y="153" key="#Equalization" timestamp="1614408541196">
-      <screen x="0" y="23" width="1792" height="1031" />
-    </state>
-    <state x="67" y="153" key="#Equalization/0.23.1792.1031@0.23.1792.1031" timestamp="1614408541196" />
-    <state x="631" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615786195200">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="631" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1615786195200" />
-    <state x="597" y="315" width="598" height="490" key="find.popup" timestamp="1615629017134">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="597" y="315" width="598" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1615629017134" />
-    <state x="24" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1614368024412">
-      <screen x="0" y="23" width="1792" height="1031" />
-    </state>
-    <state x="24" y="251" width="670" height="676" key="search.everywhere.popup/0.23.1792.1031@0.23.1792.1031" timestamp="1614368024412" />
   </component>
 </project>

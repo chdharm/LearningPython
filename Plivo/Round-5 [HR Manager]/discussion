@@ -1,0 +1,7 @@
+Given a stream of words, at any given point of time, get me 'n' most frequent words.
+
+You'll be given a first, last words and a dictionary. You'll have to find the shortest traversal path to reach last word from first word by changing one char at a time.
+e.g. cat, dog, [cat, sat, sot, nut, put, mnm, fot, fog, dog] is input and the path is cat -> sat -> sot -> fot -> fog -> dog.
+
+Implement a couple of APIs under a webapp with any prog language & framework & deploy to AWS
+
