@@ -26,7 +26,7 @@ class ParkingLot:
             for slot in floor.slots:
                 if not slot.is_occupied:
                     if availability.get(slot.type):
-                        availability[slot.type] =
+                        availability[slot.type]
                     else:
                         availability[slot.type]
                     availability.push({
