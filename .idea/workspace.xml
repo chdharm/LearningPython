@@ -20,14 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f57950cb-0f05-4a40-8705-539cf3d9276b" name="Default" comment="Hi adding some other files">
-      <change afterPath="$PROJECT_DIR$/ULA-APP/Round-2 [Low Level Design]/ParkingLot/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ULA-APP/Round-2 [Low Level Design]/ParkingLot/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ULA-APP/Round-2 [Low Level Design]/ParkingLot/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ULA-APP/Round-2 [Low Level Design]/ParkingLot/config/categories.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ULA-APP/Round-2 [Low Level Design]/ParkingLot/floor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ULA-APP/Round-2 [Low Level Design]/ParkingLot/parking_lot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ULA-APP/Round-2 [Low Level Design]/ParkingLot/slot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ULA-APP/Round-2 [Low Level Design]/ParkingLot/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fractal/Round-1[SQL Test]/question types" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Twillio/Round-1[Coding Round]/questions types" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
